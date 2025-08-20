@@ -27,3 +27,15 @@ Spring Boot 기반의 간단한 Todo List 애플리케이션입니다.
 
 - **(추가 예정)** 회원가입 / 로그인 / JWT 인증
 
+
+## 📌 현재 한계 및 개선 예정
+- DB 연결 시 일부 오류가 있어 **H2 기반 테스트만 진행 중**
+- 예외 처리 및 테스트 코드 보완 필요
+- 추후 **JWT 인증 및 회원 관리 기능** 추가 예정
+
+---
+
+## ✨ 배운 점
+- Spring Boot 구조 (Controller - Service - Repository) 설계 및 구현
+- JPA 활용한 CRUD 기능 구현 경험
+- Spring Security 및 JWT 인증 구조에 대한 이해
